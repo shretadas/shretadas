@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on AI-powered projects, full-stack applications, and data-driven solutions  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shretadas/) or Email:shreidas@gmail.com  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I once built a robot that avoids obstacles better than I do in real life! 🤖😂  
-
-# 💫 About Me:
-👋 Hi, I’m @shretadas<br>👀 I’m interested in AI/ML, Data Analytics, Web Development, and Robotics<br>🌱 I’m currently learning Advanced Machine Learning, Business Intelligence, and Embedded Systems<br>💞️ I’m looking to collaborate on AI-powered projects, full-stack applications, and data-driven solutions<br>📫 How to reach me: LinkedIn or Email:shreidas@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: I once built a robot that avoids obstacles better than I do in real life! 🤖😂
+- ⚡ Fun fact: I once built a robot that avoids obstacles better than I do in real life! 🤖😂 
 
 
 # 💻 Tech Stack:
