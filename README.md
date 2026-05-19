@@ -131,19 +131,6 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 [![An image of @shretadas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shretadas)](https://holopin.io/@shretadas)
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shretadas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shretadas&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -174,21 +161,6 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 
 ---
 
-# 🚀 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/shretadas/Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shretadas&repo=Algorithms&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shretadas/KaggleIngest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shretadas&repo=KaggleIngest&theme=tokyonight" />
-</a>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
