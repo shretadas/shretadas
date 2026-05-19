@@ -1,0 +1,23 @@
+name: profile summary cards
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: shretadas
+          BRANCH: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
