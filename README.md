@@ -133,7 +133,11 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 ---
 # 🔥 GitHub Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shretadas&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shretadas&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+---
 
 # 📈 Contribution Graph
 
@@ -142,26 +146,6 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 # 🟩 Profile Summary
 
 ![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/0-profile-details.svg)
----
-
-# 📈 Contribution Graph
-
-[![Shreta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shretadas&theme=tokyo-night)](https://github.com/shretadas)
-
----
-
-# 🟩 GitHub Profile Summary
-
-![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/3-stats.svg)
-
-![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-
 ---
 
 
