@@ -143,9 +143,20 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shretadas&theme=tokyo-night)](https://github.com/shretadas)
 
-# 🟩 Profile Summary
+---
+
+# 🟩 GitHub Profile Summary
 
 ![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/3-stats.svg)
+
+![](https://raw.githubusercontent.com/shretadas/shretadas/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+
 ---
 
 
