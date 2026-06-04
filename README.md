@@ -160,12 +160,9 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 [![An image of @shretadas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shretadas)](https://holopin.io/@shretadas)
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Metrics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shretadas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shretadas&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://raw.githubusercontent.com/shretadas/shretadas/main/github-metrics.svg)
 
 ---
 
