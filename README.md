@@ -160,10 +160,11 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 [![An image of @shretadas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shretadas)](https://holopin.io/@shretadas)
 
 ---
-# 📊 GitHub Metrics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/shretadas?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shretadas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shretadas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -189,12 +190,9 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 ---
 
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=shretadas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" 
-  />
-</p>
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shretadas/shretadas/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
