@@ -163,7 +163,8 @@ AI/ML Enthusiast • Full Stack Developer • Data Analyst • Robotics Explorer
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shretadas&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shretadas&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=shretadas&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
